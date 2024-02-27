@@ -19,43 +19,43 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>1</td>
     <td>22-02</td>
-    <td></td>
+    <td>Powtórzenie o ML</td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>29-02</td>
-    <td></td>
+    <td>Klasyfikacja wieloklasowa</td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>07-03</td>
-    <td></td>
+    <td>Regresja logistyczna, interakcje</td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>14-03</td>
-    <td> </td>
+    <td>Optymalizacja parametrów w regresji logistycznej</td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>21-03</td>
-    <td></td>
+    <td>Ensembles</td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>28-03</td>
-    <td></td>
-    <td></td>
+    <td>Zagadnienie regresji</td>
+    <td>PD1 (10p)</td>
   </tr>
   <tr>
     <td>7</td>
     <td>04-04</td>
-    <td></td>
+    <td>Metody selekcji zmiennych</td>
     <td></td>
   </tr>
   <tr>
