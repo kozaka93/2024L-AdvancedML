@@ -19,13 +19,13 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>1</td>
     <td>22-02</td>
-    <td>Powtórzenie o ML</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab01">Powtórzenie o ML</a></td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>29-02</td>
-    <td>Klasyfikacja wieloklasowa</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab02">Klasyfikacja wieloklasowa</a></td>
     <td></td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
     <td>6</td>
     <td>28-03</td>
     <td>Zagadnienie regresji</td>
-    <td>PD1 (10p)</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/blob/main/homeworks/hw1/ZMUM_PD1.pdf">PD1 </a>(10p)</td>
   </tr>
   <tr>
     <td>7</td>
