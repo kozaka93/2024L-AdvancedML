@@ -37,7 +37,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>4</td>
     <td>14-03</td>
-    <td>Regresja logistyczna, interakcje <br>Optymalizacja parametrów w regresji logistycznej</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab04">Optymalizacja parametrów w regresji logistycznej</a></td>
     <td></td>
   </tr>
   <tr>
