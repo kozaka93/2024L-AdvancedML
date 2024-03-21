@@ -43,13 +43,13 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>5</td>
     <td>21-03</td>
-    <td>Ensembles</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab05"> Regresja z interakcjami, komitety modeli</a></td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>28-03</td>
-    <td>Zagadnienie regresji</td>
+    <td>-</td>
     <td><a href="https://github.com/kozaka93/2024L-AdvancedML/blob/main/homeworks/hw1/ZMUM_PD1.pdf">PD1 </a>(10p)</td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>8</td>
     <td>11-04</td>
-    <td></td>
+    <td>Referaty <i>Część I</i></td>
     <td></td>
   </tr>
   <tr>
