@@ -43,7 +43,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>5</td>
     <td>21-03</td>
-    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab05"> Regresja z interakcjami, komitety modeli</a></td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab05"> Regresja logistyczna z interakcjami, komitety modeli</a></td>
     <td></td>
   </tr>
   <tr>
