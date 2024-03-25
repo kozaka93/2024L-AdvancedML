@@ -43,7 +43,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>5</td>
     <td>21-03</td>
-    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab05"> Regresja logistyczna z interakcjami, komitety modeli</a></td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab05"> Regresja logistyczna z interakcjami</a></td>
     <td></td>
   </tr>
   <tr>
@@ -55,13 +55,13 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>7</td>
     <td>04-04</td>
-    <td>Metody selekcji zmiennych</td>
+    <td>Komitety modeli, xgboost</td>
     <td></td>
   </tr>
   <tr>
     <td>8</td>
     <td>11-04</td>
-    <td>Referaty <i>Część I</i></td>
+    <td>Metody selekcji zmiennych <br> Referaty <i>Część I</i></td>
     <td></td>
   </tr>
   <tr>
