@@ -80,7 +80,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
     <td>11</td>
     <td>09-05</td>
     <td></td>
-    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/homeworks/hw2">PD2</a></td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/homeworks/hw2">PD2</a>(10p)</td>
   </tr>
   <tr>
     <td>12</td>
