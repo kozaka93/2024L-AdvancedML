@@ -55,7 +55,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>7</td>
     <td>04-04</td>
-    <td>Komitety modeli, xgboost</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab07">Komitety modeli, xgboost</a></td>
     <td></td>
   </tr>
   <tr>
