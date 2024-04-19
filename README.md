@@ -61,13 +61,13 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>8</td>
     <td>11-04</td>
-    <td>Wyjaśnialne uczenie maszynowe, część 1 <br> Referaty <i>Część I</i></td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab08">Wyjaśnialne uczenie maszynowe, część 1 </a><br> Referaty <i>Część I</i></td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>18-04</td>
-    <td>Wyjaśnialne uczenie maszynowe, część 2</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab08">Wyjaśnialne uczenie maszynowe, część 2</a></td>
     <td></td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
     <td>11</td>
     <td>09-05</td>
     <td></td>
-    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/homeworks/hw2">PD2</a>(10p)</td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/homeworks/hw2">PD2</a> (10p)</td>
   </tr>
   <tr>
     <td>12</td>
@@ -91,7 +91,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>13</td>
     <td>23-05</td>
-    <td></td>
+    <td>-</td>
     <td></td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
     <td>15</td>
     <td>13-06</td>
     <td></td>
-    <td></td>
+    <td>P1 (20p)</td>
   </tr>
 </tbody>
 </table>
