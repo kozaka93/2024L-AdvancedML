@@ -85,7 +85,7 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>12</td>
     <td>16-05</td>
-    <td></td>
+    <td><br> Referaty <i>Część II</i></td>
     <td></td>
   </tr>
   <tr>
