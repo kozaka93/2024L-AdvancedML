@@ -79,13 +79,13 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>11</td>
     <td>09-05</td>
-    <td></td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab11">Semi-supervised learning, część 1</a></td>
     <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/homeworks/hw2">PD2</a> (10p)</td>
   </tr>
   <tr>
     <td>12</td>
     <td>16-05</td>
-    <td><br> Referaty <i>Część II</i></td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/labs/lab11">Semi-supervised learning, część 2</a><br> Referaty <i>Część II</i></td>
     <td></td>
   </tr>
   <tr>
@@ -103,8 +103,8 @@ Materiały z zajęć _Zaawansowane metody uczenia maszynowego_ prowadzonych na W
   <tr>
     <td>15</td>
     <td>13-06</td>
-    <td></td>
-    <td>P1 (20p)</td>
+    <td><i>Prezentacja wyników projektu</i></td>
+    <td><a href="https://github.com/kozaka93/2024L-AdvancedML/tree/main/project">P1 </a>(20p)</td>
   </tr>
 </tbody>
 </table>
